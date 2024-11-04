@@ -29,7 +29,7 @@ I'm a dedicated and versatile developer with experience in database management, 
 
 ### 🌱 Academic Projects
 
-- **Student Help**: A web platform built with **Django** and **React.js** to support students with academic and social needs. Features include request management and access to essential resources.
+- **Student Help**: A web platform built with **Django** ,**HTML**,**CSS** And **JavaScript** to support students with academic and social needs. Features include request management and access to essential resources.
 
 - **Library Management System**: Developed with **C#**, **ASP.NET MVC**, and **SQL Server** for book and user management, including authentication and CRUD functionalities.
 
