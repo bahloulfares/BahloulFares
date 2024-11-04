@@ -1,7 +1,3 @@
-Voici une description pour le fichier README de votre profil GitHub, basée sur les informations de votre CV :
-
----
-
 ## Hi there 👋 I'm Fares Bahloul
 
 ### 👨‍💻 About Me
