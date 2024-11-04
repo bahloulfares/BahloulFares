@@ -45,7 +45,7 @@ I’m open to collaborating on projects related to **web and mobile development*
 ### 💬 Technical Skills
 
 - **Languages**: Java, PHP, JavaScript, C#, SQL
-- **Frameworks**: Django, ASP.NET MVC, Spring Boot
+- **Frameworks**: Django, ASP.NET MVC, Spring Boot, Fultter
 - **Libraries**: React.js, jQuery
 - **Databases**: SQL Server, MySQL
 - **Tools**: Git, IntelliJ IDEA, Visual Studio Code, Eclipse, Power BI
@@ -54,8 +54,9 @@ I’m open to collaborating on projects related to **web and mobile development*
 
 ### 📫 How to Reach Me
 
-- **LinkedIn**: Fares Bahloul
-- **Email**: bahloulfares3@gmail.com
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/fares-bahloul-961315252)
+- **Email**: Email: [bahloulfares3@gmail.com](mailto:votre.email@example.com)
+
 
 ---
 
