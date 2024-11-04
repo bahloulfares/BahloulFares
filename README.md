@@ -29,8 +29,6 @@ I'm a dedicated and versatile developer with experience in database management, 
 
 - **Library Management System**: Developed with **C#**, **ASP.NET MVC**, and **SQL Server** for book and user management, including authentication and CRUD functionalities.
 
-- **Patient Management Application**: Created in **Java** using **JavaFX** and **MySQL** for managing patient data, appointments, and reports in a healthcare context.
-
 ---
 
 ### 👯 Let's Collaborate!
